@@ -9,7 +9,7 @@ While I'm not coding, I'm either hibernating in my room, sketching, editing vids
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Cafe Menu [ f ]** -  A simple project built using **HTML** and **CSS**, featuring a responsive cafe menu layout that displays food items and prices in a clean, modern design. <br><br>
 **Cat Photo App [ f ]** - Another project where **HTML** and **CSS** have been used, which the main thing is facts about cats and it includes a form where you can complete about your cat. <br><br>
-**Turtle road crossing game [ f ]** - A simple game made with **Python** where you play as a turtle and you have to cross many roads without getting run over by the fast-moving vehicles <br><br>
+**Turtle road crossing game [ f ]** - A simple game made with **Python** where you play as a turtle and you have to cross many roads without getting run over by the fast-moving vehicles. <br><br>
 **Survey Form [ uf ]** - A survey form for an online company where data about accessibility and enjoyment of the company's website is collected to make further improvements of that website. <br><br>
 
 *Just to name a few...*
